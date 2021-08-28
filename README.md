@@ -5,7 +5,7 @@
 
 
 <h4 align='center'>✯ Demo Bot ✯<br></h4>
-<h3 align='center' ><b><a href="https://telegram.me/CapXBot">¢αρтισи вσт</a></b></h3>
+<h3 align='center' ><b><a href="https://telegram.me/AnnihilusOP">AnnihilusOP</a></b></h3>
 
 
 ###  Config Vars :
@@ -35,5 +35,5 @@
 ```
 ### Thanks :
 
-- [Avishkar Patil](https://github.com/avipatilpro)
-- [Ts_Bots](https://github.com/Ts-Bots)
+- [AnnihilusOP](https://github.com/AnnihilusOP)
+- [Unknown](https://github.com/MoviZenX)
