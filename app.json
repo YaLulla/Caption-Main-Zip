@@ -1,5 +1,5 @@
 {
-  "name": "Caption Bot [ Avishkar Patil ]",
+  "name": "Caption Bot [ AnnihilusOP ]",
   "description": "Telegram auto caption bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,10 +7,10 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://telegram.com/capxbot",
-  "website": "https://github.com/avipatilpro/Caption-Bot",
-  "repository": "https://github.com/avipatilpro/Caption-Bot",
-  "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
+  "Editor": "https://telegram.com/AnnihilusOP",
+  "website": "https://github.com/saikatsingh/Caption-Main-Zip",
+  "repository": "https://github.com/saikatsingh/Caption-Main-Zip",
+  "logo": "https://telegra.ph/file/5d089d7dae8fffdea7dd4.jpg",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -39,7 +39,7 @@
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "AvishkarPatil", 
+      "value": "AnnihilusOP", 
       "required": false
     }        
     
