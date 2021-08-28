@@ -2,7 +2,7 @@ class Translation(object):
 
       
       START_TEXT = """
-🍃 **ʜᴀɪ** __{}__ , 
+🍃 **Helu** __{}__ , 
 
 😴😴 I am Sleeping don't Disturb Me , I will Kill you !
 
@@ -29,33 +29,33 @@ class Translation(object):
       ABOUT_TEXT = """
 📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
+__○ ᴍʏ ɴᴀᴍᴇ : [Caption Bot](https://t.me/AnnihilusOP)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
 __○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
 __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
-__○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
+__○ ᴇᴅɪᴛ ʙʏ :  @AnnihilusOP__
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+**[© ᗩᑎᑎᏆᕼᏆᏞᑌᔑᝪᑭ](https://t.me/AnnihilusOP)**
 """
 
       MARKDOWN_TEXT = """
 🔰 <u>𝐀𝐛𝐨𝐮𝐭 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧</u>
 👉 <b>Bold text</b>
-🔸 <code>**Avishkar**</code>
+🔸 <code>**AnnihilusOP**</code>
 
 👉 <b>Italic text</b>
-🔹 <code>__Avishkat__</code> 
+🔹 <code>__AnnihilusOP__</code> 
 
 👉 <b>Code text</b>
-🔸 <code>`Avishkar`</code>   
+🔸 <code>`AnnihilusOP`</code>   
 
 👉 <b>Hyperlink text</b>
-🔹 <code>[hyperlink_text](https://avipatilweb.me)</code> 
+🔹 <code>[hyperlink_text](https://movizenx.annihilusop.workers.dev/0)</code> 
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/AnnihilusOP">© 𝙰𝚗𝚗𝚒𝚑𝚒𝚕𝚞𝚜𝙾𝙿</a></b>
 """
 
 # Bot status display
@@ -68,16 +68,11 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/AnnihilusOP">© 𝙰𝚗𝚗𝚒𝚑𝚒𝚕𝚞𝚜𝙾𝙿</a></b>
 """
 
 
       SOURCE_TEXT = """
 
-○ <b> I Am Available Open Source on Github 
-      Click Below Link And Deploy Me Now </b>
-
-○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
-
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+"CAACAgUAAxkBAAEC0aZhKjqT_akZKziYKIVU6E4kO2PXnQACCQQAAvtgUVWicK2L8zSH1CAE" 
 """
