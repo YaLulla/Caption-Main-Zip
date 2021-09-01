@@ -74,5 +74,5 @@ __○ ᴇᴅɪᴛ ʙʏ :  @AnnihilusOP__
 
       SOURCE_TEXT = """
 
-<b><a href="https://github.com/saikatsingh/Caption-Main-Zip">© Source Code</a></b> 
+CAACAgUAAxkBAAEC1tthL5cL1on7mxlJ3Iejs6JSXIdYFwACCQQAAvtgUVWicK2L8zSH1CAE
 """
