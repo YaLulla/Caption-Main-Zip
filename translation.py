@@ -72,4 +72,4 @@ __○ ᴇᴅɪᴛ ʙʏ :  @AnnihilusOP__
 """
 
 
-      SOURCE_TEXT = """await client.send_sticker(chat_id=message.from_user.id, sticker='CAACAgUAAxkBAAEC1tthL5cL1on7mxlJ3Iejs6JSXIdYFwACCQQAAvtgUVWicK2L8zSH1CAE)"""
+      SOURCE_TEXT = client.send_sticker(chat_id=message.from_user.id, sticker='CAACAgUAAxkBAAEC1tthL5cL1on7mxlJ3Iejs6JSXIdYFwACCQQAAvtgUVWicK2L8zSH1CAE)
